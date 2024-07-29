@@ -1,1 +1,1 @@
-American Sign Language Classification using transfer learning with YOLOv10 pretrained weights.
+American Sign Language fingerspelling classification using transfer learning with YOLOv10 pretrained weights.
