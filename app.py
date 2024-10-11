@@ -1,4 +1,4 @@
-import gradio as gr  # this facililtates the user interface
+import gradio as gr
 from ultralytics import YOLO
 import os
 
