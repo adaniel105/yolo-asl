@@ -3,13 +3,13 @@
 American Sign Language fingerspelling classification using transfer learning with YOLOv10 pretrained weights.
 
 ## Tools used
-Gradio (User Interface)
+- Gradio (User Interface)
 
-YOLO object Detection model as base for transfer learning
+- YOLO object Detection model as base for transfer learning
 
-Ultralytics
+- Ultralytics
 
-Huggingface API
+- Huggingface API
 
 ## How to Run?
 ```git clone git@github.com:adaniel105/yolo-asl.git```
