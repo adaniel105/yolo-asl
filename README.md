@@ -11,8 +11,7 @@ American Sign Language fingerspelling classification using transfer learning wit
 
 - Huggingface API
 
-## How to Run?
-```git clone git@github.com:adaniel105/yolo-asl.git```
+Hosted on HF spaces: https://huggingface.co/spaces/adaniel105/yolo-asl
 
 ```cd yolo-asl```
 
