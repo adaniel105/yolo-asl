@@ -13,8 +13,4 @@ American Sign Language fingerspelling classification using transfer learning wit
 
 Hosted on HF spaces: https://huggingface.co/spaces/adaniel105/yolo-asl
 
-```cd yolo-asl```
-
-```python3 app.py```
-
-For notebooks, simply run in any jupyter environment to display.
+For notebooks, simply run in any ipython environment to display.
